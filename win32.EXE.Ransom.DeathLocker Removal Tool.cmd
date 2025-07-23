@@ -1,8 +1,8 @@
 @echo off
 echo +------------------------------+
-echo | EXE-WIN32:Ransom.DeathLocker |
-echo |         Removal Tool         |
-echo | (c) Microsoftware Corp. 2025 |
+echo "| EXE-WIN32:Ransom.DeathLocker |"
+echo "|         Removal Tool         |"
+echo "| (c) Microsoftware Corp. 2025 |"
 echo +------------------------------+
 echo.
 echo.
